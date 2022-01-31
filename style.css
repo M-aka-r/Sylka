@@ -1,0 +1,32 @@
+body{
+  font-family:sans-serif;
+  background-color: lawngreen;
+}
+#lol{
+  background-color:black;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  margin:0px;
+}
+.jol{
+  width:600px;
+  height:600px;
+  margin:0px 400px 0px 400px ;
+}
+a{
+  color:blue;
+  margin:400px;
+  font-size: 40px;
+  text-decoration: none;
+
+}
+#logo{
+    color:white;
+    background-color: black;
+    border:5px dashed firebrick;
+    border-radius: 15px;
+    margin:10px 500px 10px 500px;
+    padding: 10px;
+}
